@@ -41,4 +41,3 @@ A versatile Go server emulator for authentication and routing customization.
 - Define your custom routes and handlers using the `Router`.
 - Modify the responses for specific routes in the corresponding handler functions.
 - Customize SSL settings and certificate usage.
-- Adapt the host file editing for your specific use case or operating system.
