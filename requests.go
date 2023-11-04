@@ -10,9 +10,9 @@ import (
 //   w.Header().Set("Content-Type", "text/plain")
 
 func handlePublic(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprint(w, "Suck dick (By Sentry) endpoint: Public")
+	fmt.Fprint(w, "9dl/ServerEmulator")
 }
 
 func handleLogin(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprint(w, "Suck dick (By Sentry) endpoint: Login")
+	fmt.Fprint(w, "9dl/ServerEmulator")
 }
